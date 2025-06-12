@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Full-Stack Software Developer** and **AI/ML Engineer**, currently completing my Master's in Computer Science at **Saint Louis University**. I specialize in developing scalable, intelligent applications using modern frameworks and AI technologies.
+I’m a **Full-Stack Software Developer** and **AI/ML Engineer**, currently completing my PhD in Computer Science at **Saint Louis University**. I specialize in developing scalable, intelligent applications using modern frameworks and AI technologies.
 
 - 🔬 Graduate Research Assistant at [SLU AIRLab](https://www.airlab-slu.com/)
 - 🧠 Experienced in integrating AI models with full-stack platforms
