@@ -10,7 +10,7 @@
 
 I’m a **Full-Stack Software Developer** and **AI/ML Engineer**, currently completing my Master's in Computer Science at **Saint Louis University**. I specialize in developing scalable, intelligent applications using modern frameworks and AI technologies.
 
-- 🔬 Former Graduate Research Assistant at [SLU AIRLab](https://www.airlab-slu.com/)
+- 🔬 Graduate Research Assistant at [SLU AIRLab](https://www.airlab-slu.com/)
 - 🧠 Experienced in integrating AI models with full-stack platforms
 - 🛠 Passionate about building robust, clean, and production-ready systems
 
@@ -62,6 +62,21 @@ I’m a **Full-Stack Software Developer** and **AI/ML Engineer**, currently comp
 
 ---
 
+---
+
+## 🚀 Open to Opportunities
+
+I’m currently open to **full-time roles** or **internship opportunities** in:
+
+- ✅ Full-Stack Software Development
+- ✅ Backend Engineering
+- ✅ AI/ML Engineering
+- ✅ Cloud-Native Application Development
+
+If you're looking for someone who loves building intelligent, scalable, and real-world software systems — let’s connect!
+
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -72,7 +87,7 @@ I’m a **Full-Stack Software Developer** and **AI/ML Engineer**, currently comp
 
 ## 📫 Let's Connect
 
-- 📧 malikshahidxyz@gmail.com  
+- 📧 malikshahid6769@gmail.com  
 - 🌐 [Portfolio Website](https://shahid1malik.github.io/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shahid1malik)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahid-shabeer-malik-54a106198)
 
