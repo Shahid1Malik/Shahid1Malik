@@ -4,6 +4,11 @@
   <em>Full-Stack Software Developer & AI/ML Engineer | Passionate about building intelligent, real-world applications</em>
 </p>
 
+
+<p align="center">
+  🌐 <a href="https://your-portfolio-link.com" target="_blank"><strong>Visit My Portfolio</strong></a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
