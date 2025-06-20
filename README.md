@@ -4,7 +4,6 @@
   <em>Full-Stack Software Developer & AI/ML Engineer | Passionate about building intelligent, real-world applications</em>
 </p>
 
-
 <p align="center">
   🌐 <a href="https://your-portfolio-link.com" target="_blank"><strong>Visit My Portfolio</strong></a>
 </p>
@@ -18,6 +17,23 @@ I’m a **Full-Stack Software Developer** and **AI/ML Engineer**, currently comp
 - 🔬 Graduate Research Assistant at [SLU AIRLab](https://www.airlab-slu.com/)
 - 🧠 Experienced in integrating AI models with full-stack platforms
 - 🛠 Passionate about building robust, clean, and production-ready systems
+
+---
+
+## 📜 Certifications
+
+<div style="background: #ffffff; padding: 12px 20px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); display: flex; align-items: center; justify-content: space-between;">
+  <span>🧠 <b>IBM Generative AI Engineering Certificate</b> – IBM & Coursera, 2025</span>
+</div>
+
+<div style="background: #ffffff; padding: 12px 20px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); display: flex; align-items: center; justify-content: space-between; margin-top: 10px;">
+  <span>💻 <b>IBM Certified Full Stack Software Developer</b> – IBM, 2025</span>
+</div>
+
+<div style="background: #ffffff; padding: 12px 20px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); display: flex; align-items: center; justify-content: space-between; margin-top: 10px;">
+  <span>☁️ <b>Introduction to Microsoft Azure Cloud Services</b> – Microsoft & Coursera, 2025</span>
+</div>
+
 
 ---
 
@@ -67,8 +83,6 @@ I’m a **Full-Stack Software Developer** and **AI/ML Engineer**, currently comp
 
 ---
 
----
-
 ## 🚀 Open to Opportunities
 
 I’m currently open to **full-time roles** or **internship opportunities** in:
@@ -79,8 +93,6 @@ I’m currently open to **full-time roles** or **internship opportunities** in:
 - ✅ Cloud-Native Application Development
 
 If you're looking for someone who loves building intelligent, scalable, and real-world software systems — let’s connect!
-
-
 
 ## 📈 GitHub Stats
 
@@ -95,4 +107,3 @@ If you're looking for someone who loves building intelligent, scalable, and real
 - 📧 malikshahid6769@gmail.com  
 - 🌐 [Portfolio Website](https://shahid1malik.github.io/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahid-shabeer-malik-54a106198)
-
